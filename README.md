@@ -75,13 +75,7 @@ Version Control: Git
 │ ├── demographics.csv # Demographic data
 │ ├── attitudes.csv # Attitudes towards self-driving cars
 ├── notebooks/
-│ ├── eda.ipynb # Exploratory Data Analysis
-│ ├── clustering.ipynb # K-means and PCA
-│ ├── sentiment_analysis.ipynb # NLP and sentiment insights
-├── src/
-│ ├── data_cleaning.py # Data preprocessing script
-│ ├── clustering_model.py # K-means clustering and PCA
-│ ├── sentiment_analysis.py # Sentiment analysis functions
+│ ├── ai_marketing_strategy.ipynb # Data processing script, K-means and Sentiment analysis
 ├── README.md # Project documentation
 ├── requirements.txt # List of dependencies
 ```
